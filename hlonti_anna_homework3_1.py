@@ -1,4 +1,4 @@
-user_name = input('Hi! Please enter your name ')
+user_name: str = input('Hi! Please enter your name ')
 user_age = input('Great, now tell me how old are you ')
 user_age_int = int(user_age)
 
